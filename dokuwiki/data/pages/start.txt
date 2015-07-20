@@ -1,0 +1,27 @@
+===== Little World - Confluence Space =====
+
+//
+//
+
+==== Main Sheets ====
+
+| **Accounting**                                    | **Concept Docs**                      | **Media**                        | **Info**                   |                                        |
+| [[accounting:spendings|Money Spendings]]          | [[concepts:game|The Game]]            | [[public:devlog|Screen Devlog]]  | [[game:stats|Game Stats]]  | [[promo:support|Support the Project]]  |
+| [[accounting:contributions|Timetracking Sheets]]  | [[concepts:vision|The Vision]]        |                                  |                            | [[promo:support|Contribute]]           |
+|                                                   | [[concepts:community|The Community]]                                                                |||                                        |
+
+==== Departments ====
+
+^ Game Developement            ^ Social Media                  ^ Communities  ^
+| [[gamedev:roadmap|Roadmap]]  | [[social:google|Google+]]     |              |
+|                              | [[social:facebook|Facebook]]  |              |
+|                              | [[social:twitter|Twitter]]    |              |
+|                              | [[social:forum|Forum/BB]]     |              |
+|                              | [[social:blog|Blogs]]         |              |
+|                              | [[social:youtube|YouTube]]    |              |
+|                              | [[social:minor|Other]]        |              |
+|                              |                               |              |
+
+==== Misc ====
+
+[[team:xyan|TODO]]

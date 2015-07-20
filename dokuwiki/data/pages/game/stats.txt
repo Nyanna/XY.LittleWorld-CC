@@ -1,0 +1,11 @@
+==== Key Stats about the Game ====
+
+| **Target Platforms:**  | Android and Desktop (Java)                                                                                    ^
+| **Genre:**             | MMORPG, Coop, Sandbox                                                                                         |
+| **Grafik:**            | Angle/Isometric in 3D Engine with Pixelart                                                                    |
+| **Worldsize:**         | infinite                                                                                                      |
+| **Company:**           | Community Aided Developement, Cooperations, Freelancer Federation                                             |
+| **Developer:**         | :::                                                                                                           |
+| **Publisher:**         | :::                                                                                                           |
+| **Product Lifetime:**  | ~7 Years                                                                                                      |
+| **Inspired by:**       | Minecraft, Zelda, Harvest Moon, Survival Games, Dwarven Fortress, impressive Landscapes, Spirit of Community  |

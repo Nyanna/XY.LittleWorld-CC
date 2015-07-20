@@ -1,0 +1,11 @@
+==== Money Spendings ====
+
+| Date      ^ Item               | Amount  |   |   ^   ^
+| 04/12/15  | Strato-Server      | 29      |   |   |   |
+| 05/12/15  | Strato-Server      | 29      |   |   |   |
+| 06/12/15  | Strato-Server      | 29      |   |   |   |
+| 07/12/15  | Strato-Server      | 29      |   |   |   |
+| 07/19/15  | Annual Domain Fee  | 4.99    |   |   |   |
+|           |                    |         |   |   |   |
+|           |                    |         |   |   |   |
+|           |                    |         |   |   |   |

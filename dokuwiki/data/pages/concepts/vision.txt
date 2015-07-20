@@ -1,0 +1,14 @@
+==== WIP ====
+
+
+
+==== Some fundraising concepts ====
+  * Donations
+  * pay for CPU, Memory and Worktime
+    * as Premium features
+  * monthly reccuring payments
+    * for supporters
+    * for priority services
+  * for server slots
+    * fundraise for an new server and the upkeep
+  * android payapp

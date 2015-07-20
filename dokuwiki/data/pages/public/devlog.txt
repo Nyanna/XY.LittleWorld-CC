@@ -1,0 +1,3 @@
+==== Visual Game Developement Log ====
+
+{{gallery> :public:devlog:screens?190x130&800X600&3&crop&reverse }}
